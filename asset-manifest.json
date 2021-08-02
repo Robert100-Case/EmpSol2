@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EmpSol2/static/css/main.ba752216.chunk.css",
+    "main.js": "/EmpSol2/static/js/main.5db738b8.chunk.js",
+    "main.js.map": "/EmpSol2/static/js/main.5db738b8.chunk.js.map",
+    "runtime-main.js": "/EmpSol2/static/js/runtime-main.0e806208.js",
+    "runtime-main.js.map": "/EmpSol2/static/js/runtime-main.0e806208.js.map",
+    "static/css/2.d45d6843.chunk.css": "/EmpSol2/static/css/2.d45d6843.chunk.css",
+    "static/js/2.34da6df5.chunk.js": "/EmpSol2/static/js/2.34da6df5.chunk.js",
+    "static/js/2.34da6df5.chunk.js.map": "/EmpSol2/static/js/2.34da6df5.chunk.js.map",
+    "index.html": "/EmpSol2/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/EmpSol2/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.ba752216.chunk.css.map": "/EmpSol2/static/css/main.ba752216.chunk.css.map",
+    "static/js/2.34da6df5.chunk.js.LICENSE.txt": "/EmpSol2/static/js/2.34da6df5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e806208.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.34da6df5.chunk.js",
+    "static/css/main.ba752216.chunk.css",
+    "static/js/main.5db738b8.chunk.js"
+  ]
+}
